@@ -1,0 +1,280 @@
+id_user,lokasi,umur
+1,"Semarang, Jawa Tengah",20
+2,"Bekasi, Jawa Barat",21
+3,"Cirebon, Jawa Barat",23
+4,"Bekasi, Jawa Barat",21
+5,"Lampung, Sumatera Selatan",20
+6,"Jakarta Utara, DKI Jakarta",18
+7,"Jakarta Selatan, DKI Jakarta",39
+8,"Bandung, Jawa Barat",40
+9,"Surabaya, Jawa Timur",38
+10,"Bekasi, Jawa Barat",39
+11,"Yogyakarta, DIY",20
+12,"Bogor, Jawa Barat",37
+13,"Jakarta Pusat, DKI Jakarta",26
+14,"Jakarta Timur, DKI Jakarta",34
+15,"Bekasi, Jawa Barat",40
+16,"Semarang, Jawa Tengah",31
+17,"Yogyakarta, DIY",39
+18,"Cirebon, Jawa Barat",26
+19,"Lampung, Sumatera Selatan",30
+20,"Semarang, Jawa Tengah",30
+21,"Subang, Jawa Barat",25
+22,"Jakarta Barat, DKI Jakarta",37
+23,"Bekasi, Jawa Barat",36
+24,"Lampung, Sumatera Selatan",40
+25,"Palembang, Sumatera Selatan",38
+26,"Bogor, Jawa Barat",22
+27,"Sragen, Jawa Tengah",38
+28,"Ponorogo, Jawa Timur",34
+29,"Depok, Jawa Barat",30
+30,"Jakarta Selatan, DKI Jakarta",26
+31,"Bekasi, Jawa Barat",34
+32,"Ponorogo, Jawa Timur",24
+33,"Sragen, Jawa Tengah",31
+34,"Klaten, Jawa Tengah",24
+35,"Solo, Jawa Tengah",20
+36,"Tanggerang, Banten",21
+37,"Serang, Banten",26
+38,"Cilacap, Jawa Tengah",32
+39,"Semarang, Jawa Tengah",27
+40,"Yogyakarta, DIY",24
+41,"Kota Gede, DIY",37
+42,"Cirebon, Jawa Barat",33
+43,"Subang, Jawa Barat",21
+44,"Karawang, Jawa Barat",25
+45,"Purwakarat, Jawa Barat",38
+46,"Jakarta Utara, DKI Jakarta",31
+47,"Jakarta Pusat, DKI Jakarta",24
+48,"Bekasi, Jawa Barat",19
+49,"Bogor, Jawa Barat",29
+50,"Subang, Jawa Barat",28
+51,"Serang, Banten",31
+52,"Tanggerang, Banten",19
+53,"Kota Gede, DIY",18
+54,"Yogyakarta, DIY",21
+55,"Lampung, Sumatera Selatan",21
+56,"Ponorogo, Jawa Timur",26
+57,"Surabaya, Jawa Timur",25
+58,"Nganjuk, Jawa Timur",23
+59,"Madura, Jawa Timur",36
+60,"Semarang, Jawa Tengah",35
+61,"Bandung, Jawa Barat",38
+62,"Yogyakarta, DIY",22
+63,"Bekasi, Jawa Barat",33
+64,"Surabaya, Jawa Timur",25
+65,"Kota Gede, DIY",37
+66,"Bekasi, Jawa Barat",24
+67,"Bogor, Jawa Barat",21
+68,"Depok, Jawa Barat",39
+69,"Serang, Banten",29
+70,"Semarang, Jawa Tengah",30
+71,"Cirebon, Jawa Barat",19
+72,"Lampung, Sumatera Selatan",22
+73,"Jakarta Utara, DKI Jakarta",31
+74,"Jakarta Selatan, DKI Jakarta",32
+75,"Bandung, Jawa Barat",29
+76,"Bekasi, Jawa Barat",32
+77,"Yogyakarta, DIY",35
+78,"Bogor, Jawa Barat",31
+79,"Depok, Jawa Barat",32
+80,"Jakarta Pusat, DKI Jakarta",30
+81,"Jakarta Timur, DKI Jakarta",27
+82,"Bekasi, Jawa Barat",35
+83,"Semarang, Jawa Tengah",29
+84,"Yogyakarta, DIY",32
+85,"Cirebon, Jawa Barat",39
+86,"Semarang, Jawa Tengah",34
+87,"Subang, Jawa Barat",27
+88,"Jakarta Barat, DKI Jakarta",19
+89,"Bekasi, Jawa Barat",38
+90,"Lampung, Sumatera Selatan",28
+91,"Palembang, Sumatera Selatan",33
+92,"Bogor, Jawa Barat",28
+93,"Sragen, Jawa Tengah",39
+94,"Ponorogo, Jawa Timur",21
+95,"Depok, Jawa Barat",30
+96,"Jakarta Selatan, DKI Jakarta",27
+97,"Bekasi, Jawa Barat",37
+98,"Ponorogo, Jawa Timur",32
+99,"Sragen, Jawa Tengah",24
+100,"Klaten, Jawa Tengah",33
+101,"Solo, Jawa Tengah",18
+102,"Tanggerang, Banten",39
+103,"Serang, Banten",38
+104,"Cilacap, Jawa Tengah",18
+105,"Semarang, Jawa Tengah",38
+106,"Kota Gede, DIY",26
+107,"Cirebon, Jawa Barat",23
+108,"Subang, Jawa Barat",30
+109,"Purwakarat, Jawa Barat",25
+110,"Jakarta Selatan, DKI Jakarta",35
+111,"Bekasi, Jawa Barat",32
+112,"Bogor, Jawa Barat",22
+113,"Karawang, Jawa Barat",24
+114,"Subang, Jawa Barat",32
+115,"Serang, Banten",38
+116,"Tanggerang, Banten",28
+117,"Kota Gede, DIY",29
+118,"Lampung, Sumatera Selatan",21
+119,"Ponorogo, Jawa Timur",31
+120,"Surabaya, Jawa Timur",29
+121,"Nganjuk, Jawa Timur",27
+122,"Madura, Jawa Timur",22
+123,"Semarang, Jawa Tengah",35
+124,"Bandung, Jawa Barat",28
+125,"Yogyakarta, DIY",25
+126,"Bekasi, Jawa Barat",33
+127,"Surabaya, Jawa Timur",25
+128,"Kota Gede, DIY",34
+129,"Bekasi, Jawa Barat",29
+130,"Bogor, Jawa Barat",25
+131,"Depok, Jawa Barat",18
+132,"Serang, Banten",38
+133,"Semarang, Jawa Tengah",18
+134,"Bekasi, Jawa Barat",33
+135,"Cirebon, Jawa Barat",30
+136,"Bekasi, Jawa Barat",40
+137,"Lampung, Sumatera Selatan",36
+138,"Jakarta Utara, DKI Jakarta",25
+139,"Jakarta Selatan, DKI Jakarta",39
+140,"Bandung, Jawa Barat",31
+141,"Surabaya, Jawa Timur",37
+142,"Bekasi, Jawa Barat",31
+143,"Yogyakarta, DIY",28
+144,"Bogor, Jawa Barat",23
+145,"Depok, Jawa Barat",20
+146,"Jakarta Pusat, DKI Jakarta",36
+147,"Jakarta Timur, DKI Jakarta",33
+148,"Bekasi, Jawa Barat",25
+149,"Semarang, Jawa Tengah",40
+150,"Yogyakarta, DIY",19
+151,"Cirebon, Jawa Barat",23
+152,"Semarang, Jawa Tengah",19
+153,"Subang, Jawa Barat",38
+154,"Jakarta Barat, DKI Jakarta",18
+155,"Bekasi, Jawa Barat",19
+156,"Lampung, Sumatera Selatan",33
+157,"Palembang, Sumatera Selatan",34
+158,"Bogor, Jawa Barat",29
+159,"Sragen, Jawa Tengah",32
+160,"Ponorogo, Jawa Timur",36
+161,"Depok, Jawa Barat",31
+162,"Jakarta Selatan, DKI Jakarta",35
+163,"Bekasi, Jawa Barat",33
+164,"Ponorogo, Jawa Timur",27
+165,"Sragen, Jawa Tengah",24
+166,"Klaten, Jawa Tengah",29
+167,"Solo, Jawa Tengah",34
+168,"Tanggerang, Banten",37
+169,"Serang, Banten",30
+170,"Cilacap, Jawa Tengah",33
+171,"Semarang, Jawa Tengah",28
+172,"Yogyakarta, DIY",25
+173,"Kota Gede, DIY",37
+174,"Cirebon, Jawa Barat",21
+175,"Subang, Jawa Barat",18
+176,"Purwakarat, Jawa Barat",37
+177,"Jakarta Utara, DKI Jakarta",20
+178,"Jakarta Selatan, DKI Jakarta",31
+179,"Jakarta Pusat, DKI Jakarta",29
+180,"Bekasi, Jawa Barat",28
+181,"Bogor, Jawa Barat",27
+182,"Karawang, Jawa Barat",26
+183,"Subang, Jawa Barat",18
+184,"Serang, Banten",34
+185,"Bekasi, Jawa Barat",21
+186,"Lampung, Sumatera Selatan",21
+187,"Jakarta Utara, DKI Jakarta",24
+188,"Jakarta Selatan, DKI Jakarta",21
+189,"Surabaya, Jawa Timur",30
+190,"Bekasi, Jawa Barat",20
+191,"Yogyakarta, DIY",27
+192,"Bogor, Jawa Barat",19
+193,"Depok, Jawa Barat",18
+194,"Jakarta Pusat, DKI Jakarta",22
+195,"Jakarta Timur, DKI Jakarta",28
+196,"Bekasi, Jawa Barat",20
+197,"Semarang, Jawa Tengah",30
+198,"Yogyakarta, DIY",23
+199,"Cirebon, Jawa Barat",28
+200,"Lampung, Sumatera Selatan",20
+201,"Subang, Jawa Barat",24
+202,"Jakarta Barat, DKI Jakarta",23
+203,"Bekasi, Jawa Barat",30
+204,"Lampung, Sumatera Selatan",30
+205,"Palembang, Sumatera Selatan",20
+206,"Bogor, Jawa Barat",28
+207,"Sragen, Jawa Tengah",19
+208,"Ponorogo, Jawa Timur",23
+209,"Depok, Jawa Barat",25
+210,"Jakarta Selatan, DKI Jakarta",18
+211,"Bekasi, Jawa Barat",20
+212,"Ponorogo, Jawa Timur",20
+213,"Sragen, Jawa Tengah",28
+214,"Klaten, Jawa Tengah",30
+215,"Solo, Jawa Tengah",23
+216,"Tanggerang, Banten",27
+217,"Serang, Banten",18
+218,"Cilacap, Jawa Tengah",23
+219,"Yogyakarta, DIY",30
+220,"Kota Gede, DIY",23
+221,"Cirebon, Jawa Barat",22
+222,"Karawang, Jawa Barat",20
+223,"Purwakarat, Jawa Barat",20
+224,"Jakarta Utara, DKI Jakarta",27
+225,"Jakarta Selatan, DKI Jakarta",27
+226,"Jakarta Pusat, DKI Jakarta",28
+227,"Bekasi, Jawa Barat",28
+228,"Bogor, Jawa Barat",29
+229,"Karawang, Jawa Barat",19
+230,"Subang, Jawa Barat",27
+231,"Semarang, Jawa Tengah",29
+232,"Bekasi, Jawa Barat",30
+233,"Cirebon, Jawa Barat",34
+234,"Bekasi, Jawa Barat",34
+235,"Lampung, Sumatera Selatan",30
+236,"Jakarta Utara, DKI Jakarta",39
+237,"Jakarta Selatan, DKI Jakarta",25
+238,"Bandung, Jawa Barat",38
+239,"Surabaya, Jawa Timur",27
+240,"Bekasi, Jawa Barat",33
+241,"Yogyakarta, DIY",38
+242,"Bogor, Jawa Barat",38
+243,"Depok, Jawa Barat",27
+244,"Jakarta Pusat, DKI Jakarta",37
+245,"Jakarta Timur, DKI Jakarta",30
+246,"Bekasi, Jawa Barat",32
+247,"Semarang, Jawa Tengah",31
+248,"Yogyakarta, DIY",32
+249,"Cirebon, Jawa Barat",36
+250,"Lampung, Sumatera Selatan",25
+251,"Semarang, Jawa Tengah",37
+252,"Subang, Jawa Barat",30
+253,"Jakarta Barat, DKI Jakarta",33
+254,"Lampung, Sumatera Selatan",34
+255,"Lampung, Sumatera Selatan",39
+256,"Jakarta Utara, DKI Jakarta",29
+257,"Jakarta Selatan, DKI Jakarta",40
+258,"Bandung, Jawa Barat",28
+259,"Surabaya, Jawa Timur",40
+260,"Bekasi, Jawa Barat",30
+261,"Yogyakarta, DIY",39
+262,"Bogor, Jawa Barat",37
+263,"Depok, Jawa Barat",29
+264,"Jakarta Pusat, DKI Jakarta",29
+265,"Jakarta Timur, DKI Jakarta",35
+266,"Bekasi, Jawa Barat",27
+267,"Semarang, Jawa Tengah",30
+268,"Yogyakarta, DIY",35
+269,"Cirebon, Jawa Barat",34
+270,"Lampung, Sumatera Selatan",25
+271,"Semarang, Jawa Tengah",29
+272,"Subang, Jawa Barat",34
+273,"Jakarta Barat, DKI Jakarta",28
+274,"Bekasi, Jawa Barat",31
+275,"Lampung, Sumatera Selatan",31
+276,"Palembang, Sumatera Selatan",39
+277,"Bogor, Jawa Barat",38
+278,"Sragen, Jawa Tengah",27
+279,"Ponorogo, Jawa Timur",26
